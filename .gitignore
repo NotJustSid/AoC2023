@@ -1,0 +1,11 @@
+# Ignore IDE related files
+/.vscode/
+
+# Ignore build files
+**/target/
+
+# Libraries ignore Cargo lock files. Not binaries.
+# **/Cargo.lock
+
+# Ignore any text files
+**/*.txt
