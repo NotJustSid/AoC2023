@@ -4,7 +4,7 @@ My solutions to the [Advent of Code 2023](https://adventofcode.com/2023) puzzles
 
 ## Usage
 
-To run the solution for any day, `cd` into the directory for that day and run `cargo run --release --bin part<1|2>`. This will print the solution. To change the input, replace the contents of `input.txt` with your input.
+To run the solution for any day, `cd` into the directory for that day and run `cargo run --release --bin part<1|2>`. This will print the solution. Ensure the input file `input.txt` is present in the same directory as the binary.
 
 ## Progress
 
